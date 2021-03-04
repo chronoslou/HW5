@@ -1,8 +1,8 @@
 # Homework 05 -  Work Day Scheduler 
 
 ## Link to site
-* [Live Link](https://chronoslou.github.io/HW5/) - 
-* [Repo README Link](https://chronoslou.github.io/HW5/) -
+* [Live Link](https://chronoslou.github.io/HW5/) 
+* [Repo README Link](https://chronoslou.github.io/HW5/) 
 
 ## Description
 
@@ -30,4 +30,7 @@ The app will should perfom the following logic:
 * This is how the app looks
 
 ![Screenshot](./Assets/Screen Shot 2021-02-26 at 11.51.27 PM.png)   
+
+# Lincense
+* MIT
 
