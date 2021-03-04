@@ -20,7 +20,7 @@ The app will should perfom the following logic:
 * User will have the ability to view the timeblocks for that day
 * Each timeblock is color coded to indicate whether it is in the past, present, or future
 * The user has the ability to click into a timeblock and enter an event
-* The user has the option to save content througha button for a timeblock
+* The user has the option to save content through a button for a timeblock
 * The entry for that timeblock is saved in local storage
 * The user has the option see saved events when the browser is refreshed
 
@@ -29,7 +29,7 @@ The app will should perfom the following logic:
 
 * This is how the app looks
 
-![Screenshot](./Assets/Screen Shot 2021-02-26 at 11.51.27 PM.png)   
+![Screenshot](.Assets/Screen Shot 2021-03-03 at 10.33.31 PM.png)s 
 
 # Lincense
 * MIT
