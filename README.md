@@ -2,7 +2,7 @@
 
 ## Link to site
 * [Live Link](https://chronoslou.github.io/HW5/) 
-* [Repo README Link](https://chronoslou.github.io/HW5/) 
+* [Repo README Link](https://github.com/chronoslou/HW5) 
 
 ## Description
 
@@ -29,7 +29,7 @@ The app will should perfom the following logic:
 
 * This is how the app looks
 
-![Screenshot](.Assets/Screen Shot 2021-03-03 at 10.33.31 PM.png)s 
+![Screenshot](./Assets/appimage.png)
 
 # Lincense
 * MIT
