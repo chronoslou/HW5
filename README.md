@@ -2,7 +2,7 @@
 
 ## Link to site
 * [Live Link](https://chronoslou.github.io/HW5/) 
-* [Repo README Link](https://github.com/chronoslou/HW5) 
+* [Repo Link](https://github.com/chronoslou/HW5) 
 
 ## Description
 

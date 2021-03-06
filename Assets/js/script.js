@@ -153,9 +153,10 @@ init();
 // saves data to be used in localStorage
 $(".saveBtn").on("click", function(event) {
     event.preventDefault();
-    var saveIndex = $(this).siblings(".description").children(".future").attr("id");
-    myPlanner[saveIndex].reminder = $(this).siblings(".description").children(".future").val();
+    var saveIndex = $(this).siblings(".description").children("textarea").attr("id");
     console.log(saveIndex);
+    myPlannerTime[saveIndex].reminder = $(this).siblings(".description").children("textarea").val();
+    console.log(myPlannerTime[saveIndex]); 
     saveReminders();
     displayReminders();
 })
